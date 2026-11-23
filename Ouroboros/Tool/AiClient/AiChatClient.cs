@@ -25,7 +25,7 @@ namespace Ouroboros.Tool.AiClient
         }
 
         /// <summary>
-        /// 对话
+        /// 请求
         /// </summary>
         /// <param name="request"></param>
         /// <param name="cancellationToken"></param>
